@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rafli (ciscaux)</h1>
-<h3 align="center">A passionate FullStack Developer from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Rafli (skirtorc)</h1>
+<h3 align="center">Python sucker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seeyaa77&label=Profile%20views&color=0e75b6&style=flat" alt="seeyaa77" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://myweb.muhammadrafli58.repl.co/](https://myweb.muhammadrafli58.repl.co/)
 
-- 📫 How to reach me **fakegarit1@gmail.com**
+- 📫 How to reach me **skirtorc@gmail.com**
 
 - ⚡ Fun fact **I think im stupid and useless**
 
