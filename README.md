@@ -15,8 +15,8 @@ Started coding in 9th grade and passionate about software development and securi
 
 
 ### 📫 Contact  
-- **Email**: fakegarit1@gmail.com  
-- **Instagram**: @rapleeeyyy
+- **Email**: raflicyber12@gmail.com  
+- **Instagram**: @wakeupliey
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-000000?style=flat&logo=gnuprivacyguard&logoColor=white)
