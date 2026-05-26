@@ -48,7 +48,7 @@ Started coding in 9th grade and passionate about software development and securi
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Greeezzz/Seeyaa77/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/Seeyaa77/Seeyaa77/output/snake.svg" />
 
 </div>
 
