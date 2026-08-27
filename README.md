@@ -8,7 +8,7 @@
 ---
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/seeyaa77/seeyaa77/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seeyaa77&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false)
   <img src="https://raw.githubusercontent.com/seeyaa77/seeyaa77/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
