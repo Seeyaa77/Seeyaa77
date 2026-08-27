@@ -71,7 +71,7 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/seeyaa77/seeyaa77/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="skyline" src="https://raw.githubusercontent.com/Seeyaa77/Seeyaa77/skyline-output/profile-night-rainbow.svg" alt="3D contribution skyline" />
 
 ###
   
