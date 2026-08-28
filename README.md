@@ -14,6 +14,9 @@
   </a>
   <img src="https://raw.githubusercontent.com/seeyaa77/seeyaa77/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <p align="center">
+  <a href="https://github.com/seeyaa77">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seeyaa77&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+  </a>
   <img src="https://trophy.ryglcloud.net/?username=seeyaa77&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Muhammad Raffli Aldiansyah's GitHub Trophies" />
 </p>
 
@@ -75,11 +78,6 @@
 <img data-importer="skyline" src="https://raw.githubusercontent.com/Seeyaa77/Seeyaa77/skyline-output/profile-night-rainbow.svg" alt="3D contribution skyline" />
 
 
-<p align="center">
-  <a href="https://github.com/seeyaa77">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seeyaa77&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 ###
   
