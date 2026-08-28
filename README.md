@@ -7,17 +7,12 @@
 
 ---
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/seeyaa77/seeyaa77/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/seeyaa77">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=seeyaa77&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="seeyaa77's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=seeyaa77&theme=dracula&hide_border=true&cache_seconds=86400" alt="seeyaa77's GitHub Streak" width="49%" />
-</p>
+  <img src="https://raw.githubusercontent.com/seeyaa77/seeyaa77/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=seeyaa77&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Muhammad Raffli Aldiansyah's GitHub Trophies" />
 </p>
