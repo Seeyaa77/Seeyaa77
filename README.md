@@ -3,6 +3,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
+* 🔭 **Currently working on:** [3sentinel store](https://3sentinel.my.id)
+* 🌱 **Currently learning:** Cyber Security
+* 👨‍💻 **All of my projects:** [raflialdiansyah.com](https://raflialdiansyah.com)
+* 💬 **Ask me about:** Automation & Security
+* 📫 **How to reach me:** [raflicyber12@gmail.com](mailto:raflicyber12@gmail.com)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seeyaa77&label=Profile%20views&color=0e75b6&style=flat" alt="seeyaa77" />
 </p>
