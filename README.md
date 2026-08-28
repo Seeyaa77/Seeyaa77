@@ -74,6 +74,18 @@
 
 <img data-importer="skyline" src="https://raw.githubusercontent.com/Seeyaa77/Seeyaa77/skyline-output/profile-night-rainbow.svg" alt="3D contribution skyline" />
 
+
+<p align="center">
+  <a href="https://github.com/seeyaa77">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seeyaa77&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 ###
   
 
