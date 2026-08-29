@@ -74,11 +74,13 @@
 ## 💬 Quote
 > Stay hungry, Stay foolish
 
-<img data-importer="skyline" src="https://raw.githubusercontent.com/Seeyaa77/Seeyaa77/skyline-output/profile-night-rainbow.svg" alt="3D contribution skyline" />
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
+
+<img data-importer="skyline" src="https://raw.githubusercontent.com/Seeyaa77/Seeyaa77/skyline-output/profile-night-rainbow.svg" alt="3D contribution skyline" />
+
+
 
 
 ###
